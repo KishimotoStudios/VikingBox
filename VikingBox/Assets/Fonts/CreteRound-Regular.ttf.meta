@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4c272b3a287905a428d5a5b45cc96c83
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 18
+  forceTextureCase: 3
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Crete Round
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4317dea3136846f4d9035e58a7253b56, type: 3}
+  customCharacters: a microgebykshtudpvnfl.0123456789
+  fontRenderingMode: 2
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
